@@ -5,7 +5,7 @@ Genshin Impact is an open world anime-styled MMO RPG that adds a little bit of s
 
 ### Official Game Art
 
-<img src="genshin.jpg" alt="An image of the game that decided to not load"/>
+<img src="downloads/genshin.jpg" alt="An image of the game that decided to not load"/>
 
 ### Gameplay
 
