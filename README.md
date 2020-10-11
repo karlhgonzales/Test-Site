@@ -5,7 +5,7 @@ Genshin Impact is an open world anime-styled MMO RPG that adds a little bit of s
 
 ### Official Game Art
 
-<img src="downloads/genshin.jpg" width="400px" height="300px" alt="An image of the game that decided to not load" />
+<img src="https://static2.gamerantimages.com/wordpress/wp-content/uploads/2020/10/genshin-impact-mondstadt.jpg?q=50&fit=crop&w=386&h=185" alt="A picture of the game that decided not to load" />
 
 ### Gameplay
 
