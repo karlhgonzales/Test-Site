@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
+<!DOCTYPE html>
+<html>
 
-<h1> Hello world! </h1>
+<head>
+<title> First Line </title>
