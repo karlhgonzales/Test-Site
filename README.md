@@ -1,7 +1,7 @@
 ## Welcome to my test site!
 
 Welcome to the world of Genshin Impact!
-In the
+Genshin Impact is an open world anime-styled MMO RPG that adds a little bit of spice to it using the famously known Gacha system which allows players to roll or summon different characters or weapons at a range of value.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
