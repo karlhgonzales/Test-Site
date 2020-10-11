@@ -1,4 +1,4 @@
-## Welcome to Article on Genshin Impact!
+## Welcome to my Article on Genshin Impact!
 
 Welcome to the world of Genshin Impact!
 Genshin Impact is an open world anime-styled MMO RPG that adds a little bit of spice to it using the famously known Gacha system which allows players to roll or summon different characters or weapons at a range of value. 
