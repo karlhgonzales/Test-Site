@@ -1,38 +1,17 @@
 ## Welcome to my test site!
 
 Welcome to the world of Genshin Impact!
-Genshin Impact is an open world anime-styled MMO RPG that adds a little bit of spice to it using the famously known Gacha system which allows players to roll or summon different characters or weapons at a range of value.
+Genshin Impact is an open world anime-styled MMO RPG that adds a little bit of spice to it using the famously known Gacha system which allows players to roll or summon different characters or weapons at a range of value. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Official Game Art
 
-### Markdown
+<img src="genshin.jpg" alt="An image of the game that decided to not load"/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Gameplay
 
-```markdown
-Syntax highlighted code block
+As said before, Genshin Impact is an open world game. This means that you can do whatever you please to, as long as you are qualified to do so by meeting a certain level or story progression requirement. In the game, there are a range of elements, which range from Fire, Wind, Ice, Geo, Hydro, and Electro. Different characters have their specific element and do more damage to certain enemies, which is why constantly switching around characters is a must-do in this game. In a party, you are allowed to have up to 4 different characters, and you can swap out characters at all times with a bit of time delay in between. Like in another game, Spellbreak, you can combine elements to make unique reactions. In Genshin Impact, this is also the case. All the elements interact with each other, an example of this can be fire and wind to make fires larger, electro and water to overcharge, etc. 
 
-# Header 1
-## Header 2
-### Header 3
+### Story
 
-- Bulleted
-- List
+Genshin Impact also has a story believe it or not! In addition, the now popular open world game is excited about orginated as a webtoon, which is similar to a manga (somewhat of a Japanese comic). People believe the webtoon will soon receive an anime debut, which is for sure something the Genshin community hopes for judging by it's overwhelmingly large community of over 10 million players after a week of initial release!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karlhgonzales/Test-Site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
