@@ -1,6 +1,7 @@
 ## Welcome to my test site!
 
-Welcome to
+Welcome to the world of Genshin Impact!
+In the
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
